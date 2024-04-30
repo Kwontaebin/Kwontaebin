@@ -1,5 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&text=Welcome%20to%20taebin's%20GitHub%20😀&animation=fadeIn&fontSize=35&fontAlignY=45&fontAlign=55&height=250)
+    
+## Web Front-end
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/css-F80000?style=for-the-badge&logo=css&logoColor=white">
+    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript boot&logoColor=white"> 
+    <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/jeuqry-0769AD?style=for-the-badge&logo=jeuqry&logoColor=white">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+    
+</div><br>
 
-<div style=" width: 700px; height: 500px; background-color: lavender; ">
+## Mobile Front-end
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
+    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter boot&logoColor=white"> 
+    <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
+    
+</div><br>
+</div>
+
+## Back-end
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Nodejs-5FA04E?style=for-the-badge&logo=Nodejs&logoColor=white"> 
+    <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
+</div><br>
+
+## PORTFOLIO
 
 </div>

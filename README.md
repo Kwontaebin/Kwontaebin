@@ -30,6 +30,8 @@
 
 ## PORTFOLIO
 <div style="display:flex; flex-direction:row;">
-    <a href="https://github.com/Kwontaebin/flutter_note"><img src=""/></a>
+    <a href="https://github.com/Kwontaebin/flutter_note">
+        <p>flutter와 Node-js로 만든 노트 프로젝트입니다.</p>
+    </a>
 </div><br>
 </div>

@@ -33,9 +33,17 @@
     <a href="https://github.com/Kwontaebin/flutter_note">
         <p>flutter, Node-js로 만든 노트 프로젝트입니다.</p>
     </a>
+</div>
 
+<div style="display:flex; flex-direction:row;">
      <a href="https://github.com/Kwontaebin/React/tree/main/react_car">
         <p>react, Node-js, jquery, javascript로 만든 중고차 프로젝트입니다.</p>
     </a>
-</div><br>
+</div>
+
+<div style="display:flex; flex-direction:row;">
+     <a href="https://github.com/Kwontaebin/React/tree/main/react_deal_world%20">
+        <p>react, Node-js, jquery, javascript로 만든 중고거래 프로젝트입니다.</p>
+    </a>
+</div>
 </div>

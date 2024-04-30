@@ -27,4 +27,9 @@
     <img src="https://img.shields.io/badge/Nodejs-5FA04E?style=for-the-badge&logo=Nodejs&logoColor=white"> 
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
 </div><br>
+
+## PORTFOLIO
+<div style="display:flex; flex-direction:row;">
+    <a href="https://github.com/Kwontaebin/flutter_note"><img src=""/></a>
+</div><br>
 </div>

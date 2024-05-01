@@ -42,7 +42,7 @@
 </div>
 
 <div style="display:flex; flex-direction:row;">
-     <a href="https://github.com/Kwontaebin/React/tree/main/react_deal_world%20">
+     <a href="https://github.com/Kwontaebin/react_deal">
         <p>react, Node-js, jquery, javascript로 만든 중고거래 프로젝트입니다.</p>
     </a>
 </div>

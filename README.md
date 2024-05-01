@@ -36,7 +36,7 @@
 </div>
 
 <div style="display:flex; flex-direction:row;">
-     <a href="https://github.com/Kwontaebin/React/tree/main/react_car">
+     <a href="https://github.com/Kwontaebin/react_car">
         <p>react, Node-js, jquery, javascript로 만든 중고차 프로젝트입니다.</p>
     </a>
 </div>

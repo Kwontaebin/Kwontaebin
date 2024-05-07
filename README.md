@@ -26,7 +26,13 @@
     <img src="https://img.shields.io/badge/Nodejs-5FA04E?style=for-the-badge&logo=Nodejs&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
+    
 </div><br>
+
+
+## Most Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwontaebin&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+
 
 ## PORTFOLIO
 <div style="display:flex; flex-direction:row;">
@@ -46,4 +52,4 @@
         <p>react, Node-js, jquery, javascript로 만든 중고거래 프로젝트입니다.</p>
     </a>
 </div>
-</div>
+

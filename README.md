@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript boot&logoColor=white"> 
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
-    <img src="https://img.shields.io/badge/jeuqry-0769AD?style=for-the-badge&logo=jeuqry&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
     
 </div><br>
@@ -36,8 +36,8 @@
 
 ## PORTFOLIO
 <div style="display:flex; flex-direction:row;">
-    <a href="https://github.com/Kwontaebin/flutter_note">
-        <p>flutter, Node-js로 만든 노트 프로젝트입니다.</p>
+    <a href="https://github.com/Kwontaebin/flutter_sns">
+        <p>Flutter, Dart, Node-js로 만든 sns 프로젝트입니다.</p>
     </a>
 </div>
 
@@ -49,7 +49,6 @@
 
 <div style="display:flex; flex-direction:row;">
      <a href="https://github.com/Kwontaebin/react_deal">
-        <p>react, Node-js, jquery, javascript로 만든 중고거래 프로젝트입니다.</p>
+        <p>react, Node-js, jQuery, javascript로 만든 중고거래 프로젝트입니다.</p>
     </a>
 </div>
-

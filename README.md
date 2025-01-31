@@ -30,6 +30,8 @@
     
 </div><br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwontaebin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Most Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwontaebin&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)

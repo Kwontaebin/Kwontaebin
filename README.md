@@ -35,6 +35,12 @@
 
 ## PORTFOLIO
 <div style="display:flex; flex-direction:row;">
+    <a href="https://github.com/Kwontaebin/flutter_tour_list">
+        <p>Flutter, Dart, Node-js로 만든 관광지 추천 프로젝트입니다.</p>
+    </a>
+</div>
+
+<div style="display:flex; flex-direction:row;">
     <a href="https://github.com/Kwontaebin/flutter_sns">
         <p>Flutter, Dart, Node-js로 만든 sns 프로젝트입니다.</p>
     </a>

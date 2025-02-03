@@ -41,6 +41,12 @@
 </div>
 
 <div style="display:flex; flex-direction:row;">
+    <a href="https://github.com/Kwontaebin/flutter_chatting_app">
+        <p>Flutter, Dart, Node-js로 만든 채팅 프로젝트입니다.</p>
+    </a>
+</div>
+
+<div style="display:flex; flex-direction:row;">
     <a href="https://github.com/Kwontaebin/flutter_sns">
         <p>Flutter, Dart, Node-js로 만든 sns 프로젝트입니다.</p>
     </a>

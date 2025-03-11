@@ -25,7 +25,9 @@
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Nodejs-5FA04E?style=for-the-badge&logo=Nodejs&logoColor=white"> 
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
     
 </div><br>

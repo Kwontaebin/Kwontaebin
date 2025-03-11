@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&text=Welcome%20to%20taebin's%20GitHub%20😀&animation=fadeIn&fontSize=35&fontAlignY=45&fontAlign=55&height=250)
-    
+
 ## Web Front-end
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/css-F80000?style=for-the-badge&logo=css&logoColor=white">

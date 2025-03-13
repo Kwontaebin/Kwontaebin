@@ -3,9 +3,8 @@
 ## Web Front-end
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/css-F80000?style=for-the-badge&logo=css&logoColor=white">
-    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript boot&logoColor=white"> 
-    <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">    
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -16,7 +15,7 @@
 ## App Front-end
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
-    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter boot&logoColor=white"> 
+    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
     

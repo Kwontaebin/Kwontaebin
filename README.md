@@ -23,6 +23,7 @@
 
 ## Back-end
 <div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Nodejs-5FA04E?style=for-the-badge&logo=Nodejs&logoColor=white"> 
     <img src="https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
